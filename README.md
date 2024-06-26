@@ -1,6 +1,3 @@
-# SWEN614-Team7
-SWEN614 Project (Team 7)
-
 ## To start the `Sentiment Analysis Application` run the Backend Application first and then the Frontend Application
 
 ## Steps to Start Backend (Flask) Application in Local:
